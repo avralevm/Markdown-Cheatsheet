@@ -1,6 +1,7 @@
 Ссылки: 
 https://paulradzkov.com/2014/markdown_cheatsheet/ - Краткое руководство по Маркдауну
 https://training.github.com/downloads/ru/github-git-cheat-sheet/ - Шпаргалки GIT
+---------------------
 Шпаргалка по Markdown
 ---------------------
 
